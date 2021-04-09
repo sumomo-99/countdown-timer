@@ -5,7 +5,7 @@
 ![demo screenshot 02](docs/images/demo-screenshot-02.png)
 
 ## デモURL
-[https://color-cycle-sumomo-99.vercel.app/](https://countdown-timer-sumomo-99.vercel.app/)
+[https://countdown-timer-sumomo-99.vercel.app/](https://countdown-timer-sumomo-99.vercel.app/)
 
 ## 開発サーバの起動
 ```bash
